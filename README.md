@@ -4,13 +4,18 @@
 <h1 align="center">Hi folks 👋</h1>
 <h3 align="center">Welcome to my space, who has passionate backend developer from Indonesia</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ikyusix&label=Profile%20views&color=0e75b6&style=flat" alt="ikyusix" /> </p>
+
+[![wakatime](https://wakatime.com/badge/user/8a080303-e5e5-45e7-bee2-e366aa2357ee.svg)](https://wakatime.com/@8a080303-e5e5-45e7-bee2-e366aa2357ee)
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 ![](https://github-readme-stats.vercel.app/api?username=ikyusix&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ikyusix&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ikyusix&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![](https://github-profile-trophy.vercel.app/?username=ikyusix&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ikyusix&label=Profile%20views&color=0e75b6&style=flat" alt="ikyusix" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
