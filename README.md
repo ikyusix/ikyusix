@@ -7,9 +7,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikyusix&label=Profile%20views&color=0e75b6&style=flat" alt="ikyusix" /> </p>
 
 [![wakatime](https://wakatime.com/badge/user/8a080303-e5e5-45e7-bee2-e366aa2357ee.svg)](https://wakatime.com/@8a080303-e5e5-45e7-bee2-e366aa2357ee)
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
 
 ![](https://github-readme-stats.vercel.app/api?username=ikyusix&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ikyusix&theme=merko&hide_border=false)<br/>
